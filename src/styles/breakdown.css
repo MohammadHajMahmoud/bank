@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+    background-color: rgb(56, 211, 239);
+  }
+  th, td {
+    padding: 15px;
+    text-align: center;
+  }
+  th, td {
+    border-bottom: 1px solid #ddd;
+  }
+  .tableCon{
+    display: flex;
+    justify-content: center;
+    align-items: top;
+  }

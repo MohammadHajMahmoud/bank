@@ -1,0 +1,23 @@
+.transaction{
+    height: 80px;
+    background-color: rgb(181, 205, 232);
+    border: 1px solid black;
+}
+.transaction:hover{
+    background-color: rgb(193, 138, 244);
+}
+.transactions{
+    margin: auto;
+    justify-content: center;
+}
+.title{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.moreThan500{
+    color: rgb(24, 222, 24);
+}
+.lessThan500{
+    color: red;
+}
